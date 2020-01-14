@@ -45784,3 +45784,13 @@ readers do not read off random characters that represent icons */
   width: auto;
 }
 
+.router-link-active {
+  background-color: #68a8b9 !important;
+  color: #fff !important;
+}
+
+.router-link-exact-active {
+  background-color: #68a8b9 !important;
+  color: #fff !important;
+}
+
